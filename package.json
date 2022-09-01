@@ -1,0 +1,21 @@
+{
+  "name": "my-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ravshan",
+    "Fayziyev",
+    "my",
+    "bot"
+  ],
+  "author": "Ravshan Fayziyev",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^2.1.0",
+    "telebot": "^1.4.1"
+  }
+}
