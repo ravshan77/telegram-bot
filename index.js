@@ -52,6 +52,7 @@ bot.on(["text"], (msg) => {
 
 bot.on(["/stop"], (msg) => { msg.reply.text("Sog'bo'ling") })
 
+console.log("oked");
 
 bot.start();
 
